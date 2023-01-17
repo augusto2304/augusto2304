@@ -42,38 +42,7 @@ CONTACTO
 
 ## Projects
 
-### Food App 
 
-~~~
-📌 Henry Bootcamp Individual Project 
-
-Design and develop a web page about recipes including:
-✔ Landing page
-✔ Searchbar
-✔ Filtering, Sorting and Pagination
-✔ Recipe´s detail
-✔ Option to create a new recipe
-
-Tech Utils: 
-🔹 Javascript
-🔹 Front: React, Redux, plain CSS .
-🔹 Back: Node.js, Express.
-🔹 Database: PostgreSQL, Sequelize.
-
-~~~
-
-
-
-<p align="center">
-<img align="center" width="400px" src="./PI_images/LANDING-FOODAPP.png"/>
-<img align="center" width="400px" src="./PI_images/HOME-FOODAPP.png" />
-</p>
-<p align="center">
-<img align="center" width="400px" src="./PI_images/DETAIL-FOODAPP.png" />
-<img align="center" width="400px" src="./PI_images/FORM1-FOODAPP.png" />
-</p>
-
-____________________
 ### Campy
 
 ~~~
@@ -117,6 +86,39 @@ Tech Utils:
 <img align="center" width="400px" src='./PF_images/7.png' />
 </p>
 ___________________________________________
+
+### Food App 
+
+~~~
+📌 Henry Bootcamp Individual Project 
+
+Design and develop a web page about recipes including:
+✔ Landing page
+✔ Searchbar
+✔ Filtering, Sorting and Pagination
+✔ Recipe´s detail
+✔ Option to create a new recipe
+
+Tech Utils: 
+🔹 Javascript
+🔹 Front: React, Redux, plain CSS .
+🔹 Back: Node.js, Express.
+🔹 Database: PostgreSQL, Sequelize.
+
+~~~
+
+
+
+<p align="center">
+<img align="center" width="400px" src="./PI_images/LANDING-FOODAPP.png"/>
+<img align="center" width="400px" src="./PI_images/HOME-FOODAPP.png" />
+</p>
+<p align="center">
+<img align="center" width="400px" src="./PI_images/DETAIL-FOODAPP.png" />
+<img align="center" width="400px" src="./PI_images/FORM1-FOODAPP.png" />
+</p>
+
+____________________
 
 
 
