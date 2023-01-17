@@ -107,18 +107,11 @@ Tech Utils:
 
 ~~~
 
+👉 BackEnd : https://github.com/augusto2304/PI-Foods-BackEnd
 
+👉 FrontEnd : https://github.com/augusto2304/PI-Foods-FrontEnd
 
-<p align="center">
-<img align="center" width="400px" src="./PI_images/LANDING-FOODAPP.png"/>
-<img align="center" width="400px" src="./PI_images/HOME-FOODAPP.png" />
-</p>
-<p align="center">
-<img align="center" width="400px" src="./PI_images/DETAIL-FOODAPP.png" />
-<img align="center" width="400px" src="./PI_images/FORM1-FOODAPP.png" />
-</p>
-
-____________________
+___________________
 
 
 
