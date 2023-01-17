@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Augusto Alvarez</h1>
 <h3 align="center">A creative JavaScript FullStack developer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=augusto2304&label=Profile%20views&color=0e75b6&style=flat" alt="augusto2304" /> </p>
+
+- 🌱 I’m currently learning **NextJS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/augusto2304](https://github.com/augusto2304)
+
+- 📫 How to reach me **augusto.alvarez2304@yahoo.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/augusto-alvarez-360895240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/augusto-alvarez-360895240/" height="30" width="40" /></a>
@@ -12,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=augusto2304&show_icons=true&locale=en&layout=compact" alt="augusto2304" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=augusto2304&show_icons=true&locale=en" alt="augusto2304" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=augusto2304&" alt="augusto2304" /></p>
