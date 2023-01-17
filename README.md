@@ -7,11 +7,6 @@
 <h3 align="center"><strong>A creative JavaScript FullStack developer 👩‍💻</strong></h3>
 <h4 align="center">Always open to new opportunities and experiences where I can demonstrate my skills and learn new technologies, to grow both professionally and personally. 🚀</h4></div>
 
-- 🌱 I’m currently learning **NextJS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/augusto2304](https://github.com/augusto2304)
-
-
 
 <!--
 CONTACTO
