@@ -43,7 +43,7 @@ CONTACTO
 ## Projects
 
 
-### Campy
+### CAMPY
 
 ~~~
 📌 Final group project of Bootcamp Henry.
